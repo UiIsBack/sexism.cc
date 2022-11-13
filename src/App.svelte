@@ -2,8 +2,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
 </head>
 <script>
-  import { transition_in } from 'svelte/internal';
-import { fade, fly } from 'svelte/transition';
+	import { fade, fly } from 'svelte/transition';
 
 	let barWidth = 0;
 	let progress;
