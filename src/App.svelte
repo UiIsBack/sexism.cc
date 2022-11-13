@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.1/css/all.css">
 </head>
 <script>
-	import { fade, fly } from 'svelte/transition';
+import { fade, fly } from 'svelte/transition';
 
 	let barWidth = 0;
 	let progress;
@@ -39,7 +39,7 @@
       ui#6666
     </h1>
     <div class="quote-holder">
-    <p class="quote">fuck u</p></div>
+    <p class="quote">fuck u 💬</p></div>
 <ul class="langs">
       <li>
 
