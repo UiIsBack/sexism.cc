@@ -7,9 +7,9 @@ import { fade, fly } from 'svelte/transition';
 
 	let barWidth = 0;
 	let progress;
-  const addColor = () => barWidth += 1;
+  const addColor = () => barWidth += 5;
 	
-	const randomTime = () => 1
+	const randomTime = () => 1  
 
   progress = setInterval(addColor, randomTime());		
 
