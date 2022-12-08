@@ -36,8 +36,8 @@ import { fade, fly } from 'svelte/transition';
   
   <div id="card" transition:fly class="card" >
    <h1 class="name">
-      ui#6666
-    </h1>
+      ui#0873 
+</h1>
     <div class="quote-holder">
     <p class="quote">fuck u 💬</p></div>
 <ul class="langs">
