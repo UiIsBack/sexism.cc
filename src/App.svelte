@@ -69,7 +69,7 @@ import { fade, fly } from 'svelte/transition';
   </a>
 </li>
 <li>
-  <a href="https://tiktok.com/@cl">
+  <a href="https://tiktok.com/@floor">
   <i class="fab fa-tiktok" style="font-size: 30px; color: rgba(71, 167, 255, 1);"></i>
   </a>
 </li>
