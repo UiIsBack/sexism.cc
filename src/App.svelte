@@ -36,7 +36,7 @@ import { fade, fly } from 'svelte/transition';
   
   <div id="card" transition:fly class="card" >
    <h1 class="name">
-      ui#0873 
+      ui#3846
 </h1>
     <div class="quote-holder">
     <p class="quote">fuck u 💬</p></div>
@@ -74,7 +74,7 @@ import { fade, fly } from 'svelte/transition';
   </a>
 </li>
 <li>
-  <a href="https://discord.gg/4dJPuEqT">
+  <a href="https://discord.gg/8kcksGB8Xg">
   <i class="fab fa-discord" style="font-size: 30px; color: rgba(71, 167, 255, 1);"></i>
   </a>
 </li>
